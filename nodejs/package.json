@@ -4,6 +4,7 @@
   "description": "Chat Application",
   "main": "chat_app.js",
   "scripts": {
+    "start": "node chat_app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shivam_kapoor",
